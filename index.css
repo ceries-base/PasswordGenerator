@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    background-color: #1F2937; 
+}
+
+ h1 {
+    font-family: Karla;
+  }
+
+.generate {
+    color: white; 
+    margin: 3%;
+}
+
+.color {
+    color: #10B981;
+}
+
+.line1 {
+    border-bottom: 1px solid #2F3E53;
+    width: 446px;
+    height: 0px;
+    left: 52px;
+    top: 361px;
+    margin: 10px;
+}
+
+.password {
+    color: #4ADF86;
+    margin: 3%;
+
+
+}
+
+.insecure {
+    color: #D5D4D8;
+    padding: 0%;
+    font-family: Inter;
+    margin: 3%;
+}
+
+#button {
+ background: #10B981;
+ font-family: Inter;
+ color: white; 
+ font-size: 12px;
+ padding: 2%;
+ border-radius: 11px;
+ border: #10B981;
+ margin: 3%;
+  width: 425px;
+
+}
+
+.output {
+    display: flex;
+}
+
+.box1 {
+    background-color: #273549;
+    width: 200px;
+    height: 30px;
+    left: 50px;
+    margin: 3%;
+    top: 396px;
+    border-radius: 11px;
+    color: white;
+    font-family: Inter;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 2%; 
+    color: #10B981;
+
+}
+
+.box2 {
+    background-color: #273549;
+    width: 200px;
+    height: 30px;
+    right: 30px;
+    margin: 3%;
+    top: 396px;
+    border-radius: 11px;
+    color: white;
+    font-family: Inter;
+    font-size: 15px;
+    text-align: center; 
+    padding-top: 2%; 
+    color: #10B981;
+
+    
+}
+
